@@ -2,3 +2,8 @@ fastapi
 uvicorn
 jinja2
 python-multipart
+
+azure-mgmt-resource
+azure-mgmt-web
+azure-identity
+
